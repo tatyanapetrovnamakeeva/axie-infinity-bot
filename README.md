@@ -12,9 +12,6 @@
   <a href="https://github.com/frinyvonnick/gitmoji-changelog">
     <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
   </a>
-  <a href="https://twitter.com/axieinfinity">
-    <img alt="Twitter: axieinfinity" src="https://img.shields.io/twitter/follow/axieinfinity.svg?style=social" target="_blank" />
-  </a>
   <br>
 </p>
 
